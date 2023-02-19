@@ -1,3 +1,15 @@
+# Cart
+this is the cart webpage of e-commerce application built using React.js with firesStore to store the data
+
+## Features 
+- Users can increse and decrease the product quantity 
+- Delete the product from cart
+- See the total price of all the product
+
+## Screenhot
+![Screenshot (22)](https://user-images.githubusercontent.com/114590452/219933301-981ac5af-b80c-44e8-89ea-9993aed58252.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
